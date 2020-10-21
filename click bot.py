@@ -3,6 +3,7 @@
 #3.Select whether to automatically click the upgrade button
 #4.Wait for 3 seconds
 #5.Run the program
+#https://particle-clicker.web.cern.ch/
 
 
 import pyautogui as p
