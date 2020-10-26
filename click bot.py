@@ -1,8 +1,8 @@
 #1.Click the lab.
 #2.Enter the number of clicks
-#3.Select whether to automatically click the upgrade button
-#4.Wait for 3 seconds
-#5.Run the program
+#3.click the lap
+#4.click the bottom to upgrade
+
 
 
 import pyautogui as p
